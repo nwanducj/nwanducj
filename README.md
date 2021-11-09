@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwanducj
-- 👀 I’m interested in the cloud, frontend, backend and flutter
-- 🌱 I’m currently learning flutter for mobile apps
-- 💞️ I’m looking to collaborate on frontend projects and anything interesting
+- 👀 I’m interested in the cloud, frontend, backend and mobile(rn)
+- 🌱 I’m currently looking to go into blockchain
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me +234 810 282 9960
 
 <!---
